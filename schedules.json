@@ -7,6 +7,30 @@
             "time": "23:58:44",
             "teachers_json_file": "teachers_2020-11-16.json",
             "classes_json_file": "classes_2020-11-16.json"
+        },
+        {
+            "xml_file_id": "325",
+            "timestamp": "20201115_000635",
+            "date": "15/11/2020",
+            "time": "00:06:35",
+            "teachers_json_file": "teachers_2020-11-16g.json",
+            "classes_json_file": "classes_2020-11-16g.json"
+        },
+        {
+            "xml_file_id": "326",
+            "timestamp": "20201115_001240",
+            "date": "15/11/2020",
+            "time": "00:12:40",
+            "teachers_json_file": "teachers_2020-11-15.json",
+            "classes_json_file": "classes_2020-11-15.json"
+        },
+        {
+            "xml_file_id": "326",
+            "timestamp": "20201115_001307",
+            "date": "15/11/2020",
+            "time": "00:13:07",
+            "teachers_json_file": "teachers_2020-11-15as.json",
+            "classes_json_file": "classes_2020-11-15as.json"
         }
     ]
 }
