@@ -1,12 +1,4 @@
 {
     "schedules": [
-        {
-            "xml_file_id": "343",
-            "timestamp": "20201115_012613",
-            "date": "15/11/2020",
-            "time": "01:26:13",
-            "teachers_json_file": "teachers_2020-11-16.json",
-            "classes_json_file": "classes_2020-11-16.json"
-        }
     ]
 }

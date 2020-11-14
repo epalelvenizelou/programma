@@ -58,7 +58,7 @@
         $.each(data.schedules, function(index, entry) {
           $('#schedule').append($('<option>', {
             value: entry.classes_json_file,
-            text: entry.date + ' ' + entry.time
+            text: entry.schedule_label
           }));
         });
       });
