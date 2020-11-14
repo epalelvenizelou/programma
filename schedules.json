@@ -1,4 +1,13 @@
 {
     "schedules": [
+        {
+            "xml_file_id": "348",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 16/11/2020",
+            "timestamp": "20201115_014038",
+            "date": "15/11/2020",
+            "time": "01:40:38",
+            "teachers_json_file": "teachers_2020-11-15.json",
+            "classes_json_file": "classes_2020-11-15.json"
+        }
     ]
 }
