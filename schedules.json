@@ -8,6 +8,15 @@
             "time": "01:40:38",
             "teachers_json_file": "teachers_2020-11-15.json",
             "classes_json_file": "classes_2020-11-15.json"
+        },
+        {
+            "xml_file_id": "351",
+            "schedule_label": "Πρόγραμμα από Παρασκευή 20/11/2020",
+            "timestamp": "20201210_020943",
+            "date": "10/12/2020",
+            "time": "02:09:43",
+            "teachers_json_file": "teachers_2020-11-20.json",
+            "classes_json_file": "classes_2020-11-20.json"
         }
     ]
 }
