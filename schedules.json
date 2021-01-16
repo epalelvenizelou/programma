@@ -1,5 +1,22 @@
 {
     "schedules": [
-
+        {
+            "xml_file_id": "354",
+            "schedule_label": "",
+            "timestamp": "20210116_130127",
+            "date": "16/01/2021",
+            "time": "13:01:27",
+            "teachers_json_file": "teachers_2021-01-18.json",
+            "classes_json_file": "classes_2021-01-18.json"
+        },
+        {
+            "xml_file_id": "354",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 18/01/2021",
+            "timestamp": "20210116_130208",
+            "date": "16/01/2021",
+            "time": "13:02:08",
+            "teachers_json_file": "teachers_2021-01-18.json",
+            "classes_json_file": "classes_2021-01-18.json"
+        }
     ]
 }
