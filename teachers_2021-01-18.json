@@ -1,0 +1,5987 @@
+{
+    "xml_file_id": "354",
+    "type": "teachers",
+    "date_and_time": "16/01/2021 13:02:08",
+    "cards": {
+        "ΑΓΓΕΛΗΣ ΣΤΥΛΙΑΝΟΣ": [
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            }
+        ],
+        "ΑΘΑΝΑΣΟΠΟΥΛΟΥ ΘΕΟΔΩΡΑ": [
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α1",
+                "classrooms": "1"
+            }
+        ],
+        "ΑΛΕΞΑΚΗ ΒΑΣΙΛΙΚΗ": [
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            }
+        ],
+        "ΑΠΟΣΤΟΛΑΚΗ ΒΑΣΙΛΙΚΗ": [
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            }
+        ],
+        "ΑΡΕΤΑΚΗ ΕΛΕΝΗ-ΕΛΠΙΔΑ": [
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β3",
+                "classrooms": "14"
+            }
+        ],
+        "ΒΑΓΙΩΝΑΚΗ ΕΛΕΝΗ": [
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β1",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β2",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β4",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ2",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ6",
+                "classrooms": "ΑΥΛΗ"
+            }
+        ],
+        "ΒΕΡΝΑΔΑΚΗΣ ΝΙΚΟΛΑΟΣ": [
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α1α",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Α1α",
+                "classrooms": "1"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α2α",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Α2α",
+                "classrooms": "2"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α2β",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α2β",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α3α",
+                "classrooms": "4"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α3α",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α3β",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α3β",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α4α",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Α4α",
+                "classrooms": "5"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α4β",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α4β",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α5α",
+                "classrooms": "6"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α5α",
+                "classrooms": "6"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α1β",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α1β",
+                "classrooms": ""
+            }
+        ],
+        "ΒΙΔΑΛΑΚΗ ΑΡΤΕΜΙΣ": [
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΙΑΤΡΕΙΟ"
+            }
+        ],
+        "ΒΟΥΡΕΞΑΚΗ ΑΘΗΝΑ": [
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            }
+        ],
+        "ΓΕΡΜΑΝΗ ΡΑΦΑΗΛΙΑ-ΚΡΥΣΤΑΛΛΙΑ": [
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            }
+        ],
+        "ΓΙΑΝΤΖΗ ΕΥΑΓΓΕΛΙΑ": [
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β2",
+                "classrooms": "13"
+            }
+        ],
+        "ΓΥΠΑΚΗ ΑΙΚΑΤΕΡΙΝΗ": [
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            }
+        ],
+        "ΖΙΡΖΙΡΗ ΑΝΑΣΤΑΣΙΑ": [
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β1",
+                "classrooms": "12"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β5",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": ""
+            }
+        ],
+        "ΘΩΜΑΣ ΣΠΥΡΙΔΩΝ": [
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            }
+        ],
+        "ΚΑΛΛΙΟΝΤΖΗ ΑΙΚΑΤΕΡΙΝΗ": [
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            }
+        ],
+        "ΚΑΛΟΥΔΗ ΑΣΠΑΣΙΑ": [
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β1",
+                "classrooms": "12"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β3",
+                "classrooms": "14"
+            }
+        ],
+        "ΚΑΜΠΟΥΡΙΔΟΥ ΔΕΣΠΟΙΝΑ": [
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            }
+        ],
+        "ΚΛΕΙΝΑΥΤΑΚΗΣ ΠΑΥΛΟΣ": [
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            }
+        ],
+        "ΚΟΚΚΙΝΑΚΗΣ ΑΝΤΩΝΙΟΣ": [
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            }
+        ],
+        "ΚΟΡΝΑΡΑΚΗ ΚΩΝΣΤΑΝΤΙΝΑ": [
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            }
+        ],
+        "ΚΟΥΤΣΑΜΠΕΣΗ ΕΥΓΕΝΙΑ": [
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            }
+        ],
+        "ΚΟΥΦΟΥΔΑΚΗ ΠΑΡΑΣΚΕΥΗ": [
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α2",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Α2",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α3",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α3",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α4",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Α4",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α4",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α4",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α4",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α5",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α5",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α5",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Α5",
+                "classrooms": ""
+            }
+        ],
+        "ΚΤΙΣΤΑΚΗ ΜΑΡΙΑ": [
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            }
+        ],
+        "ΚΩΝΣΤΑΝΤΟΥΔΑΚΗΣ ΑΡΙΣΤΕΙΔΗΣ": [
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β6",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β5",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α1",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α1",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α2",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α2",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Α3",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α3",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α4",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α4",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α5",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Α5",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β3",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β7",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Γ1",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ3",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ4",
+                "classrooms": "ΑΥΛΗ"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ5",
+                "classrooms": "ΑΥΛΗ"
+            }
+        ],
+        "ΜΑΓΟΥΛΑ ΕΥΦΡΟΣΥΝΗ": [
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β4",
+                "classrooms": "15"
+            }
+        ],
+        "ΜΑΚΡΙΔΗΣ ΔΗΜΗΤΡΙΟΣ": [
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β2",
+                "classrooms": "13"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β4",
+                "classrooms": "15"
+            }
+        ],
+        "ΜΑΝΑΣΑΚΗ ΑΝΑΣΤΑΣΙΑ": [
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            }
+        ],
+        "ΜΑΡΑΒΕΛΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ": [
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            }
+        ],
+        "ΜΑΡΙΝΑΚΗ ΕΙΡΗΝΗ": [
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            }
+        ],
+        "ΜΕΛΛΗ ΠΟΛΥΞΕΝΗ": [
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            }
+        ],
+        "ΜΕΝΙΟΥΔΑΚΗΣ ΜΙΧΑΗΛ": [
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            }
+        ],
+        "ΜΙΧΑΗΛΙΔΟΥ ΓΕΩΡΓΙΑ": [
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            }
+        ],
+        "ΜΙΧΕΛΑΚΗ ΣΤΥΛΙΑΝΗ": [
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            }
+        ],
+        "ΜΟΥΣΟΥΡΑΚΗ ΚΑΛΛΙΟΠΗ": [
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α1",
+                "classrooms": "1"
+            }
+        ],
+        "ΜΠΑΛΑΝΤΙΝΟΣ ΜΙΧΑΗΛ": [
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "3"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "3"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "3"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΙΑΤΡΕΙΟ"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΙΑΤΡΕΙΟ"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΕΦΑ",
+                "classrooms": "ΙΑΤΡΕΙΟ"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            }
+        ],
+        "ΜΠΑΜΠΑΤΖΙΑΝΗΣ ΙΩΑΝΝΗΣ": [
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β5",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β7",
+                "classrooms": "18"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            }
+        ],
+        "ΜΠΕΧΤΣΟΥΔΗΣ ΔΗΜΗΤΡΙΟΣ": [
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β1Γ",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β4",
+                "classrooms": "15"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ6Γ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            }
+        ],
+        "ΜΠΛΑΖΟΥΔΑΚΗ ΕΙΡΗΝΗ": [
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            }
+        ],
+        "ΝΙΑΟΥΣΤΑΣ ΙΩΑΝΝΗΣ": [
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α5β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α5β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ3",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Γ4",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΔΙΚ",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 3"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α2",
+                "classrooms": "2"
+            }
+        ],
+        "ΝΟΥΛΑ ΦΩΤΕΙΝΗ": [
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            }
+        ],
+        "ΝΤΡΟΥΜΠΟΓΙΑΝΝΗ ΧΡΥΣΟΥΛΑ": [
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΝΟΣ."
+            }
+        ],
+        "ΠΑΛΙΕΡΑΚΗ ΚΑΛΛΙΟΠΗ": [
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α2Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ6Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Α1Ε",
+                "classrooms": ""
+            }
+        ],
+        "ΠΑΠΑΪΩΑΝΝΟΥ ΑΦΕΝΤΩ": [
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            }
+        ],
+        "ΠΑΠΑΜΙΧΑΛΟΠΟΥΛΟΣ ΑΝΔΡΕΑΣ": [
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "12"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "13"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": ""
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            }
+        ],
+        "ΠΑΡΑΣΚΑΚΗ ΓΕΩΡΓΙΑ": [
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "15"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "16"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "17"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            }
+        ],
+        "ΠΕΝΤΑΡΗ ΑΙΚΑΤΕΡΙΝΗ": [
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β4",
+                "classrooms": "15"
+            }
+        ],
+        "ΠΕΡΑΘΩΡΑΚΗΣ ΕΜΜΑΝΟΥΗΛ": [
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α3",
+                "classrooms": "4"
+            }
+        ],
+        "ΣΑΡΧΑΝΗ ΕΥΘΑΛΙΑ": [
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΓΕ1",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Β-ΓΕ2",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΓΕ3",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΤΡΟ",
+                "classrooms": "ΕΡΓ. ΤΡΟ."
+            }
+        ],
+        "ΣΗΜΑΝΤΗΡΑΚΗΣ ΝΙΚΟΛΑΟΣ": [
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Α4α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Α4α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α1β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Α1β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α1α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Α1α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α2α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α2α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α2β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Α2β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α3β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α3β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Α3α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α3α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α4β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Α4β",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 2"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Α5α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α5α",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            }
+        ],
+        "ΣΗΦΑΚΗ ΜΑΡΙΑ": [
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΝΟΣ",
+                "classrooms": "ΓΡΑΦΕΙΟ ΤΟΜΕΑΡΧΩΝ"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΙΑΤ",
+                "classrooms": "ΑΙΘΟΥΣΑ ΔΙΑΔΡΑΣΤΙΚΟΥ"
+            }
+        ],
+        "ΣΠΑΝΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ": [
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β6",
+                "classrooms": "17"
+            }
+        ],
+        "ΣΤΑΘΟΠΟΥΛΟΥ ΜΑΡΙΑ": [
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β3",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β4",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β5",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β6",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β7",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Γ5",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ6",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Β-ΠΛ1",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΠΛ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 1"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ2",
+                "classrooms": "ΕΡΓ. ΠΛΗ. 4"
+            }
+        ],
+        "ΣΦΑΚΙΑΝΑΚΗ ΣΤΑΥΡΟΥΛΑ": [
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ1",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ2",
+                "classrooms": "7"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ3Γ",
+                "classrooms": "8"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Α2Γ",
+                "classrooms": "2"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α1Γ",
+                "classrooms": "1"
+            }
+        ],
+        "ΣΧΟΙΝΟΠΛΟΚΑΚΗ ΣΤΥΛΙΑΝΗ": [
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "8"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΦΥΣ",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Β-ΥΓ1",
+                "classrooms": "ΕΡΓ. ΦΥΣ. (ΔΑΙΔΑΛΟΣ)"
+            }
+        ],
+        "ΤΕΡΖΗ ΑΦΡΟΔΙΤΗ": [
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Α5",
+                "classrooms": "6"
+            }
+        ],
+        "ΤΖΑΜΠΑΖΑΚΗ ΚΑΛΛΙΟΠΗ": [
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "9"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Β-ΥΓ3",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 5,
+                "period": "4",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ2",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Γ-ΒΡΕ",
+                "classrooms": "ΕΡΓ. ΒΡΕ."
+            }
+        ],
+        "ΤΖΙΝΕΥΡΑΚΗΣ ΑΝΤΩΝΙΟΣ": [
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΦΥΤ",
+                "classrooms": "ΕΡΓ. ΦΥΤ."
+            }
+        ],
+        "ΤΡΙΧΑΚΗΣ ΓΕΩΡΓΙΟΣ": [
+            {
+                "day": 2,
+                "period": "3",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β6",
+                "classrooms": "17"
+            }
+        ],
+        "ΤΣΙΓΑΝΗΣ ΙΩΑΝΝΗΣ": [
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Β3",
+                "classrooms": "14"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α3Γ",
+                "classrooms": "4"
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Β6",
+                "classrooms": "17"
+            }
+        ],
+        "ΦΟΥΝΤΟΥΛΑΚΗΣ ΙΩΑΝΝΗΣ": [
+            {
+                "day": 5,
+                "period": "6",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Α5",
+                "classrooms": "6"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Α4",
+                "classrooms": "5"
+            },
+            {
+                "day": 5,
+                "period": "7",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 4,
+                "period": "3",
+                "class_names": "Α1",
+                "classrooms": "1"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Α3",
+                "classrooms": "4"
+            },
+            {
+                "day": 3,
+                "period": "5",
+                "class_names": "Α2",
+                "classrooms": "2"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Α2",
+                "classrooms": "2"
+            }
+        ],
+        "ΦΡΑΓΚΙΑΔΑΚΗ ΧΡΥΣΗ": [
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            },
+            {
+                "day": 4,
+                "period": "4",
+                "class_names": "Γ4",
+                "classrooms": "9"
+            },
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Γ5",
+                "classrooms": "3"
+            }
+        ],
+        "ΧΟΝΔΡΟΖΟΥΜΑΚΗ ΑΛΕΞΑΝΔΡΑ": [
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Β7Γ",
+                "classrooms": "18"
+            }
+        ],
+        "ΧΡΗΣΤΟΥ ΤΡΙΑΝΤΑΦΥΛΛΙΑ": [
+            {
+                "day": 4,
+                "period": "5",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "18"
+            },
+            {
+                "day": 2,
+                "period": "7",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "7",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "3",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "4",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "2",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 5,
+                "period": "3",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 4,
+                "period": "2",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "6",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 3,
+                "period": "1",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 1,
+                "period": "7",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 4,
+                "period": "1",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "11"
+            },
+            {
+                "day": 2,
+                "period": "4",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "5",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "6",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "6",
+                "class_names": "Β-ΥΓ4",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "1",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 2,
+                "period": "2",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "6",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            },
+            {
+                "day": 4,
+                "period": "7",
+                "class_names": "Γ-ΦΑΡ",
+                "classrooms": "ΕΡΓ. ΙΑΤ."
+            }
+        ],
+        "ΜΑΘ-ΕΝΤ": [
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β7Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "5",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "2",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 5,
+                "period": "1",
+                "class_names": "Γ3Ε",
+                "classrooms": ""
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β5Ε",
+                "classrooms": ""
+            }
+        ],
+        "ΜΑΘ-ΠΑΡ": [
+            {
+                "day": 1,
+                "period": "1",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "2",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "4",
+                "class_names": "Β5Γ",
+                "classrooms": "16"
+            },
+            {
+                "day": 1,
+                "period": "5",
+                "class_names": "Β6",
+                "classrooms": "17"
+            },
+            {
+                "day": 1,
+                "period": "3",
+                "class_names": "Β6",
+                "classrooms": "17"
+            }
+        ]
+    }
+}
