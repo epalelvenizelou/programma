@@ -8,6 +8,15 @@
             "time": "13:02:08",
             "teachers_json_file": "teachers_2021-01-18.json",
             "classes_json_file": "classes_2021-01-18.json"
+        },
+        {
+            "xml_file_id": "355",
+            "schedule_label": "Πρόγραμμα από 08/02/2021",
+            "timestamp": "20210206_125126",
+            "date": "06/02/2021",
+            "time": "12:51:26",
+            "teachers_json_file": "teachers_2021-02-08.json",
+            "classes_json_file": "classes_2021-02-08.json"
         }
     ]
 }
