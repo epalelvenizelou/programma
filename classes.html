@@ -20,7 +20,7 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;700;800;900&display=swap" rel="stylesheet">
 
-  <title>Ωρολόγιο Πρόγραμμα Καθηγητών</title>
+  <title>Ωρολόγιο Πρόγραμμα Τμημάτων</title>
 
   <style>
 
@@ -32,7 +32,13 @@
 
     .table td, .table th {
       padding: .75rem;
-      width: 15%;
+      /* width: 15%; */
+    }
+    .table td {
+      width: 19%;
+    }
+    .table th {
+      width: 5%;
     }
 
     .table tr {
@@ -43,7 +49,7 @@
       @page {
         size: A4 landscape;
       }
-      #schedule, #teachers {
+      #schedule, #classes {
         display: none;
       }
       #print-button {
@@ -51,7 +57,7 @@
       }
       body {
         padding-top: 0;
-        zoom: 80%;
+        zoom: 60%;
       }
     }
 
@@ -63,75 +69,75 @@
   <script>
     $(document).ready(function() {
 
-      function clear_teacher_table() {
+      function clear_class_table() {
         $('#schedule-container').hide();
         $("td[class^='tt']").html('');
-        $('#teacher-name').html('').hide();
+        $('#class-name').html('').hide();
         $('#date-and-time').html('').hide();
         $('#print-button').hide();
       }
 
-      clear_teacher_table();
+      clear_class_table();
 
       var schedules_data = '';
       $.getJSON('./schedules.json', function(data) {
         $.each(data.schedules, function(index, entry) {
           $('#schedule').append($('<option>', {
-            value: entry.teachers_json_file,
+            value: entry.classes_json_file,
             text: entry.schedule_label
           }));
         });
         $('#schedule option:last').css({'background-color': 'yellow', 'font-weight': 'bold'});
-        $('#schedule option:not(:last)').css({'color': '#e0e0e0'});        
+        $('#schedule option:not(:last)').css({'color': '#e0e0e0'});
       });
 
-      var teacher_data = '';
+      var class_data = '';
 
-      function prepare_teachers_select_box(teachers_file) {
+      function prepare_classes_select_box(classes_file) {
 
-        $('#teachers').find('option:not(:first)').remove();
+        $('#classes').find('option:not(:first)').remove();
 
-        $.getJSON('./' + teachers_file, function(data) {
+        $.getJSON('./' + classes_file, function(data) {
 
-          teacher_data = data;
+          class_data = data;
 
           $.each(data.cards, function(name, cards) {
-            $('#teachers').append($('<option>', {
+            $('#classes').append($('<option>', {
               value: name,
               text: name
             }));
           });
         });
 
-        $('#teachers').show();
+        $('#classes').show();
       }
 
       $(function() {
         $('#schedule').change(function() {
-          $('#teachers').hide();
-          clear_teacher_table();
+          $('#classes').hide();
+          clear_class_table();
           if ($(this).val() !== "-1") {
-            prepare_teachers_select_box($(this).val());
+            prepare_classes_select_box($(this).val());
           }
         });
       });
 
       $(function() {
-        $('#teachers').change(function() {
-          var teacher_name = $(this).val();
+        $('#classes').change(function() {
+          var class_name = $(this).val();
 
-          clear_teacher_table();
+          clear_class_table();
 
-          if (teacher_name != "-1") {
+          if (class_name != "-1") {
 
             $('#schedule-container').show();
-            $('#teacher-name').html(teacher_name).show();
-            $('#date-and-time').html('Ημερομηνία Δημιουργίας: ' + teacher_data.date_and_time).show();
+            $('#class-name').html(class_name).show();
+            $('#date-and-time').html('Ημερομηνία Δημιουργίας: ' + class_data.date_and_time).show();
             $('#print-button').show();
-            $.each(teacher_data.cards, function(name, cards) {
-              if (name == teacher_name) {
+            $.each(class_data.cards, function(name, cards) {
+              if (name == class_name) {
                 $.each(cards, function(index, card) {
-                  $(".tt" + card.day + card.period).html('<strong>' + card.class_names + '</strong>' + '<br><span class="badge badge-pill badge-secondary">' + card.classrooms + '</span>')
+                  $(".tt" + card.day + card.period).append('<div class="alert" role="alert" style="border: 1px #e0e0e0 solid"><strong>' + card.subject_name + '<br><small>' + card.teacher_names + '</small><br>' + ((card.class_names == class_name) ? '' : card.class_names) + '</strong>' + '<br><span class="badge badge-pill badge-secondary">' + card.classrooms + '</span></div>')
                 });
               }
             });
@@ -150,11 +156,11 @@
 
   <div class="container-fluid">
     <select id="schedule"><option value="-1">--- Επιλέξτε Ωρολόγιο</option></select>
-    <select id="teachers" style="display: none"><option value="-1">--- Επιλέξτε Καθηγητή/τρια</option></select>
+    <select id="classes" style="display: none"><option value="-1">--- Επιλέξτε Τμήμα</option></select>
     <button id="print-button" type="button" class="btn btn-sm btn-warning" style="display: none">Εκτύπωση</button>
 
     <div id="schedule-container" class="table-responsive" style="display: none; padding-top: 40px">
-      <h1 id="teacher-name"></h1>
+      <h1 id="class-name"></h1>
       <table class="table table-striped table-bordered">
         <thead class="thead-dark">
           <tr>
