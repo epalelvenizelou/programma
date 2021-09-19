@@ -1,31 +1,13 @@
 {
     "schedules": [
         {
-            "xml_file_id": "354",
-            "schedule_label": "Πρόγραμμα από Δευτέρα 18/01/2021",
-            "timestamp": "20210116_130208",
-            "date": "16/01/2021",
-            "time": "13:02:08",
-            "teachers_json_file": "teachers_2021-01-18.json",
-            "classes_json_file": "classes_2021-01-18.json"
-        },
-        {
-            "xml_file_id": "355",
-            "schedule_label": "Πρόγραμμα από Δευτέρα 08/02/2021",
-            "timestamp": "20210206_125126",
-            "date": "06/02/2021",
-            "time": "12:51:26",
-            "teachers_json_file": "teachers_2021-02-08.json",
-            "classes_json_file": "classes_2021-02-08.json"
-        },
-        {
-            "xml_file_id": "357",
-            "schedule_label": "Πρόγραμμα από Δευτέρα 15/02/2021",
-            "timestamp": "20210212_221148",
-            "date": "12/02/2021",
-            "time": "22:11:48",
-            "teachers_json_file": "teachers_2021-02-15.json",
-            "classes_json_file": "classes_2021-02-15.json"
+            "xml_file_id": "2",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 20/09/2021",
+            "timestamp": "20210919_123114",
+            "date": "19/09/2021",
+            "time": "12:31:14",
+            "teachers_json_file": "teachers_2021-09-20.json",
+            "classes_json_file": "classes_2021-09-20.json"
         }
     ]
 }
