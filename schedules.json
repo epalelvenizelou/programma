@@ -8,6 +8,15 @@
             "time": "12:31:14",
             "teachers_json_file": "teachers_2021-09-20.json",
             "classes_json_file": "classes_2021-09-20.json"
+        },
+        {
+            "xml_file_id": "6",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 27/09/2021",
+            "timestamp": "20210925_144925",
+            "date": "25/09/2021",
+            "time": "14:49:25",
+            "teachers_json_file": "teachers_2021-09-27.json",
+            "classes_json_file": "classes_2021-09-27.json"
         }
     ]
 }
