@@ -17,6 +17,15 @@
             "time": "14:49:25",
             "teachers_json_file": "teachers_2021-09-27.json",
             "classes_json_file": "classes_2021-09-27.json"
+        },
+        {
+            "xml_file_id": "10",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 04/10/2021",
+            "timestamp": "20211004_113916",
+            "date": "04/10/2021",
+            "time": "11:39:16",
+            "teachers_json_file": "teachers_2021-10-04.json",
+            "classes_json_file": "classes_2021-10-04.json"
         }
     ]
 }
