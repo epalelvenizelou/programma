@@ -26,6 +26,33 @@
             "time": "11:39:16",
             "teachers_json_file": "teachers_2021-10-04.json",
             "classes_json_file": "classes_2021-10-04.json"
+        },
+        {
+            "xml_file_id": "42",
+            "schedule_label": "",
+            "timestamp": "20211010_170549",
+            "date": "10/10/2021",
+            "time": "17:05:49",
+            "teachers_json_file": "teachers_2021-10-10.json",
+            "classes_json_file": "classes_2021-10-10.json"
+        },
+        {
+            "xml_file_id": "42",
+            "schedule_label": "",
+            "timestamp": "20211010_170614",
+            "date": "10/10/2021",
+            "time": "17:06:14",
+            "teachers_json_file": "teachers_2021-10-10.json",
+            "classes_json_file": "classes_2021-10-10.json"
+        },
+        {
+            "xml_file_id": "43",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 11/10/2021",
+            "timestamp": "20211010_171046",
+            "date": "10/10/2021",
+            "time": "17:10:46",
+            "teachers_json_file": "teachers_2021-10-11.json",
+            "classes_json_file": "classes_2021-10-11.json"
         }
     ]
 }
