@@ -53,6 +53,15 @@
             "time": "18:05:54",
             "teachers_json_file": "teachers_2021-11-08.json",
             "classes_json_file": "classes_2021-11-08.json"
+        },
+        {
+            "xml_file_id": "87",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 22/11/2021",
+            "timestamp": "20211120_195317",
+            "date": "20/11/2021",
+            "time": "19:53:17",
+            "teachers_json_file": "teachers_2021-11-22.json",
+            "classes_json_file": "classes_2021-11-22.json"
         }
     ]
 }
