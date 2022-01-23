@@ -71,6 +71,15 @@
             "time": "18:32:03",
             "teachers_json_file": "teachers_2021-12-06.json",
             "classes_json_file": "classes_2021-12-06.json"
+        },
+        {
+            "xml_file_id": "109",
+            "schedule_label": "Πρόγραμμα από Δευτέρα 24/01/2022",
+            "timestamp": "20220123_124411",
+            "date": "23/01/2022",
+            "time": "12:44:11",
+            "teachers_json_file": "teachers_2022-01-24.json",
+            "classes_json_file": "classes_2022-01-24.json"
         }
     ]
 }
